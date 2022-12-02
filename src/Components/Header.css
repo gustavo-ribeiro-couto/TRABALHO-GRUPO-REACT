@@ -1,0 +1,31 @@
+#header {
+    background: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+
+  }
+
+#logo{
+  display: flex;
+  margin: 10px;
+
+}
+
+
+#navegar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+ul{
+  display: flex;
+}
+
+ul li{
+  margin-right: 80px;
+
+}
+
